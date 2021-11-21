@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dice Thrower2</string>
+    <string-array name="no_of_dices">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string name="roll_dice">Roll Dice</string>
+    <string name="dice_image">Dice Image</string>
+    <string name="no_of_dices">Number of Dices</string>
+</resources>
